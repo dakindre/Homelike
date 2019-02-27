@@ -34,7 +34,7 @@ self.conversion_df.sort_values(by=['page_id', 'session_id'])
 
 ### Task D
 The two insights I looked for in the data are: 
-1. Top 10 campaign conversion rates with over 50 unique sessions 
+1. Top 10 campaign conversion rates with over 50 unique sessions. I counted all conversions even if there were more than one per session. The assignment did not specify either way. 
 
 
 ![alt text](/campaign_conversions.PNG)
