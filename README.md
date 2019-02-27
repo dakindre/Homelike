@@ -1,9 +1,6 @@
-# Homelike
-
-Submission for Drew Dakin
+# Homelike - Submission for Drew Dakin
 
 ## Results
-
 ### Task A
 The overall conversion rate of all users was found to be:
 #### 76.2%
