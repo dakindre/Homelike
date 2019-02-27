@@ -38,8 +38,14 @@ self.conversion_df.sort_values(by=['page_id', 'session_id'])
 ### Task D
 The two insights I looked for in the data are: 
 1. Top 10 campaign conversion rates with over 50 unique sessions 
+
+
 ![alt text](/campaign_conversions.PNG)
+
+
 2. Device type conversion rates sorted
+
+
 ![alt text](/device_conversions.PNG)
 
 The code used to find these were
