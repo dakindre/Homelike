@@ -1,0 +1,5 @@
+,device_type,event_type,count,session_id,conversion_rate
+3,tablet,conversion,8084,9317,0.8676612643554792
+2,phone,conversion,54392,69035,0.7878902006228724
+0,desktop,conversion,36132,47674,0.7578973864160758
+1,other,conversion,44,3428,0.012835472578763127
