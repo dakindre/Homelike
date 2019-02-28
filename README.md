@@ -1,5 +1,5 @@
 # Homelike - Submission for Drew Dakin
-In order to limit the amount of memory used by the application I ran the script within a dockercontainer with the memory limit set to 1GB. The dockerfile can be found [here](/Dockerfile). The below commands were used to create the container.
+In order to limit the amount of memory used by the application I ran the script within a docker container with the memory limit set to 1GB. The dockerfile can be found [here](/Dockerfile). The below commands were used to create the container.
 ```
 docker build -t homelike .
 docker run --memory="1g" homelike
